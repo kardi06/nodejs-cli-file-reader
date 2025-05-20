@@ -7,3 +7,4 @@ Aplikasi sederhana CLI berbasis Node.js untuk membaca file teks dan menampilkan 
 ```bash
 npm install
 node index.js contoh.txt
+```
