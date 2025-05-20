@@ -1,6 +1,6 @@
 # 📄 CLI File Reader Tool (Node.js)
 
-Aplikasi sederhana CLI berbasis Node.js untuk membaca file teks dan menampilkan statistiknya (baris, kata, karakter).
+Simple CLI Application based on js to read text file and show statitic (newline, word, character)
 
 ## 🚀 Cara Menjalankan
 
