@@ -1,0 +1,12 @@
+{
+  "name": "cli-file-reader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "read": "node index.js contoh.txt"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
